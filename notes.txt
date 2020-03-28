@@ -1,0 +1,5 @@
+Requirements:
+    1) Nodejs & Npm
+    2) Mongo Database - Local or Mlab Cloud or Docker
+    3) Rest Client
+    4) Robo 3T for MongoDB
