@@ -3,3 +3,5 @@ Requirements:
     2) Mongo Database - Local or Mlab Cloud or Docker
     3) Rest Client
     4) Robo 3T for MongoDB
+
+    Mongo (Git Bash) https://zocada.com/setting-mongodb-users-beginners-guide/
